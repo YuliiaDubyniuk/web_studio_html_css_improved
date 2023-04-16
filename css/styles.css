@@ -371,6 +371,10 @@ img {
   gap: 120px;
 }
 
+.footer-social-madia .icons{
+  gap: 16px;
+}
+
 .span-footer {
   color: var(--cloud);
 }
