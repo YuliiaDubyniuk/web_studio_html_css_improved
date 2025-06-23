@@ -14,11 +14,11 @@ A refined static web page showcasing polished HTML and CSS techniques, with impr
    ```bash
    git clone https://github.com/YuliiaDubyniuk/web_studio_html_css_improved.git
 ## Project structure
-```/css/            — Stylesheets for layout improvements
+```
+/css/            — Stylesheets for layout improvements
 /images/         — Image assets (e.g., backgrounds, icons)
-/fonts/          — Custom fonts (if included)
 /index.html      — Main HTML file demonstrating refined styles
-/other.html      — Additional page(s) (if applicable)
+/portfolio.html  — Portfolio page
 ```
 
 ## Features
